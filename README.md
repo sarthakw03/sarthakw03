@@ -3,7 +3,7 @@
 I am a developer and data science practitioner who loves turning data into actionable insights and building cross-platform applications. I am actively preparing for entry-level technical roles and continuously upskilling.
 
 ## 🚀 About Me
-* 🔭 Currently focusing on **Machine Learning** and **Mobile Development**.
+* 🔭 Currently focusing on **Machine Learning**, **Data Science**,**AI** and **Mobile Development**.
 * 💻 Building applications using **Flutter** to ensure seamless cross-platform experiences.
 * 📊 Experienced in predictive analysis and classification models. Recent highlights include:
   * Completing a data science internship focused on **Customer Churn Prediction**.
